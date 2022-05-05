@@ -1,0 +1,33 @@
+* {
+    margin: 20px;
+}
+
+body {
+    background: rgb(227, 206, 150);
+}
+
+#rd-title {
+    font-family: 'Manrope', sans-serif;
+    font-size: 34px;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Manrope', sans-serif;
+    margin-top: 35px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.p-text {
+    font-family: 'Manrope', sans-serif;
+    font-size: 12px;
+    text-align: center;
+
+}
+
+ul {
+    font-family: 'Manrope', sans-serif;
+    font-size: 12px;
+    text-align: left;
+}
